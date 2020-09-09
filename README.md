@@ -1,9 +1,9 @@
 ## JavaScript30!
 
-With my bootcamp done 4 months ago (!!!), I'm restarting my #100DaysofCode with the JavaScript30 challenge from Web Bos. I'm super excited to do this and I hope to finish it in 30 days (or earlier)
+With my bootcamp done 4 months ago (!!!), I'm restarting my #100DaysofCode with the JavaScript30 challenge from Wes Bos. I'm super excited to do this and I hope to finish it in 30 days (or earlier)
 
 ## Checklist of Challenges
-1. :white_check_mark: JavaScript Drum Kit - Created my own version as Animal Sounds
+1. :white_check_mark: 09 Sep 2020 JavaScript Drum Kit - Created my own version as Animal Sounds
 2. JS and CSS Clock
 3. CSS Variables
 4. Array Cardio Day 1
